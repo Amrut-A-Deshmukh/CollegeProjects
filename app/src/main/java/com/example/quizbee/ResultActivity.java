@@ -1,4 +1,4 @@
-package com.example.vikasojha.quizbee;
+package com.example.quizbee;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
